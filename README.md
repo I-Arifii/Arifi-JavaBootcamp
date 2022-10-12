@@ -1,2 +1,2 @@
-# CodingPath
+# JavaBootcamp
 A learning repository
